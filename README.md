@@ -5,7 +5,7 @@
 **LUAD** : 폐암, **LUSC** : 폐편평상피암
 LUAD와 LUSC로 예로 분석하여 결과를 나타냄
 
-본 코드에서는 [firebrowse](http://firebrowse.org/)에 있는 암 데이터(mRNAseq)를 다운로드할 수 있음
+본 코드에서는 [firebrowse](http://firebrowse.org/)에 있는 암 데이터(mRNAseq)를 다운로드할 수 있음        
 본 코드에서는 5가지의 모델을 사용할 수 있음
 
 ✅ RandomForest와 LightGBM 모델에서의 암 구분 유전자          
